@@ -1,38 +1,17 @@
-# START HERE — Superflow Efficiency Package
+# START HERE | Superflow Efficiency Developer Package v7.2
 
-**Give this file as the first prompt.**
+**Reusable developer method, not an active worker, automation or new scheduler.**
 
-After the agent reads this, the user only needs to say:
+Read START_HERE.md, superflow_companion.md, final_superflow_prompt.md, then relevant existing repository SKILL.md, prompts/implementer.md, prompts/testing-guidelines.md, workflow.json, llms.txt and CLAUDE.md where present.
 
-**please continue**
+When the owner says **please continue**, resume the verified current authorised task, not an invented new mission.
 
-The agent will then follow the package rules and finish the work.
+For the original app assignment, finish FREE without Shizuku; document the separate PRIVATE PRO Shizuku plan. For other projects, use their actual scope.
 
----
+v7.2 adds: real-or-null execution budgets, verified checkpoints and concurrency protection, authenticated worker acceptance receipts, regression fixtures, revision guards and truthful test evidence. Prefer current branch/root only when authorised; do not assume main exists. Implement full features, run relevant tests, update docs last, report complete file inventory and exact revisions.
 
-## Instructions for the agent
+No unapproved spending, external messages, security/DNS changes, production deployment, merge, publishing, deletion, device commands or automation changes.
 
-You are running the Superflow Efficiency Package.
+Queen Bee v7.2 candidate resides in Cowlsly/active-abilities-and-knowledge-development_by-cowlsly. Superflow is a METHOD, not another coordinator.
 
-1. Read this file completely.
-2. Read the companion file: `superflow_companion.md`
-3. Read the main prompt: `final_superflow_prompt.md`
-4. Read any preexisting Superflow files present in the repo (SKILL.md, prompts/*, llms.txt, CLAUDE.md, workflow.json, etc.).
-
-Then wait. When the user says **please continue**, begin the work:
-
-- Finish the free version of the app (no Shizuku).
-- Prefer writing working code directly into the current branch / root where the git mode allows.
-- Complete the feature. Supporting code is in scope.
-- Record every create / move / delete / modify.
-- Last step: amend all necessary documentation and record the changes.
-- Prepare notes for the private pro repo that will include Shizuku.
-
-Output a clear status when done.
-
-## Package files
-- START_HERE.md (this file — give this first)
-- superflow_companion.md
-- final_superflow_prompt.md
-
-User says only: **please continue**
+©2026 Cowlsly Labs.
