@@ -12,6 +12,6 @@ v7.2 adds: real-or-null execution budgets, verified checkpoints and concurrency 
 
 No unapproved spending, external messages, security/DNS changes, production deployment, merge, publishing, deletion, device commands or automation changes.
 
-Queen Bee v7.2 candidate resides in Cowlsly/active-abilities-and-knowledge-development_by-cowlsly. Superflow is a METHOD, not another coordinator.
+Queen Bee v7.2 candidate resides in Cowlsly/.-.10_Abilities-And-Knowledge_Developmental-Data_Repository. Superflow is a METHOD, not another coordinator.
 
 ©2026 Cowlsly Labs.
